@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: f538cf213d521e249aed1d6862e791a1
+timeCreated: 1455721096
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite sheet jump_0
+    21300002: sprite sheet jump_1
+    21300004: sprite sheet jump_2
+    21300006: sprite sheet jump_3
+    21300008: sprite sheet jump_4
+    21300010: sprite sheet jump_5
+    21300012: sprite sheet jump_6
+    21300014: sprite sheet jump_7
+    21300016: sprite sheet jump_8
+    21300018: sprite sheet jump_9
+    21300020: sprite sheet jump_10
+    21300022: sprite sheet jump_11
+    21300024: sprite sheet jump_12
+    21300026: sprite sheet jump_13
+    21300028: sprite sheet jump_14
+    21300030: sprite sheet jump_15
+    21300032: sprite sheet jump_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite sheet jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1154
+        width: 528
+        height: 820
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet jump_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1154
+        width: 528
+        height: 614
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet jump_2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1154
+        width: 528
+        height: 878
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet jump_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 458
+        height: 633
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet jump_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 117
+        width: 412
+        height: 905
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

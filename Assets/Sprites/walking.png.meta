@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 1d81af6092f1b4649be3b73ff5def95b
+timeCreated: 1455721145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite sheet walk_0
+    21300002: sprite sheet walk_1
+    21300004: sprite sheet walk_2
+    21300006: sprite sheet walk_3
+    21300008: sprite sheet walk_4
+    21300010: sprite sheet walk_5
+    21300012: sprite sheet walk_6
+    21300014: sprite sheet walk_7
+    21300016: sprite sheet walk_8
+    21300018: sprite sheet walk_9
+    21300020: sprite sheet walk_10
+    21300022: sprite sheet walk_11
+    21300024: sprite sheet walk_12
+    21300026: sprite sheet walk_13
+    21300028: sprite sheet walk_14
+    21300030: sprite sheet walk_15
+    21300032: sprite sheet walk_16
+    21300034: sprite sheet walk_17
+    21300036: sprite sheet walk_18
+    21300038: sprite sheet walk_19
+    21300040: sprite sheet walk_20
+    21300042: sprite sheet walk_21
+    21300044: sprite sheet walk_22
+    21300046: sprite sheet walk_23
+    21300048: sprite sheet walk_24
+    21300050: sprite sheet walk_25
+    21300052: sprite sheet walk_26
+    21300054: sprite sheet walk_27
+    21300056: sprite sheet walk_28
+    21300058: sprite sheet walk_29
+    21300060: sprite sheet walk_30
+    21300062: sprite sheet walk_31
+    21300064: sprite sheet walk_32
+    21300066: sprite sheet walk_33
+    21300068: sprite sheet walk_34
+    21300070: sprite sheet walk_35
+    21300072: sprite sheet walk_36
+    21300074: sprite sheet walk_37
+    21300076: sprite sheet walk_38
+    21300078: sprite sheet walk_39
+    21300080: sprite sheet walk_40
+    21300082: sprite sheet walk_41
+    21300084: sprite sheet walk_42
+    21300086: sprite sheet walk_43
+    21300088: sprite sheet walk_44
+    21300090: sprite sheet walk_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite sheet walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 528
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet walk_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 831
+        width: 528
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet walk_2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 831
+        width: 528
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet walk_3
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 831
+        width: 528
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 528
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet walk_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 528
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet walk_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 528
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite sheet walk_7
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 528
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
